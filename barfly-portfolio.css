@@ -1,0 +1,102 @@
+@media only screen and (max-width: 1000px) and (min-width: 690px) {
+    body .swiper-slide .content h2 {
+        font-size: 50px!important;
+        line-height: 60px!important;
+     }
+}
+
+@media only screen and (max-width: 1000px) and (min-width: 690px) {
+    .nectar-slider-wrap[data-full-width=false] .swiper-slide .content p {
+        font-size: 22px!important;
+        line-height: 27px!important;
+     }
+}
+
+@media only screen and (max-width: 1000px) and (min-width: 690px) {
+    .nectar-slider-wrap[data-full-width=false] .swiper-slide .content {
+        padding: 0 0!important;
+    }
+}
+
+@media only screen and (max-width: 1300px) and (min-width: 1000px) {
+    .nectar-slider-wrap[data-full-width=false] .swiper-slide .content h2 {
+        font-size: 50px!important;
+        line-height: 60px!important;
+    }
+}
+
+@media only screen and (max-width: 1300px) and (min-width: 1000px) {
+    .nectar-slider-wrap[data-full-width=false] .swiper-slide .content p {
+        font-size: 22px!important;
+        line-height: 26px!important;
+    }
+}
+
+@media only screen and (max-width: 690px) {
+    body .nectar-slider-wrap[data-fullscreen=true] .swiper-slide .content p {
+        font-size: 16px!important;
+        line-height: 20px!important;
+    }
+}
+
+@media only screen and (max-width: 690px) {
+    body .nectar-slider-wrap[data-fullscreen=true] .swiper-slide .content h2 {
+        font-size: 22px!important;
+        line-height: 26px!important;
+    }
+}
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    body .nectar-slider-wrap[data-fullscreen=true] .swiper-slide .content p {
+        font-size: 16px!important;
+        line-height: 20px!important;
+    }
+}
+
+/* iPhone 6+, 7+, 8+ ----------- */
+@media only screen and (min-device-width : 414px) and (max-device-width : 736px) {
+    body .nectar-slider-wrap[data-fullscreen=true] .swiper-slide .content p {
+        font-size: 16px!important;
+        line-height: 20px!important;
+    }
+}
+
+/* iPhone 6+, 7+, 8+ ----------- */
+@media only screen and (min-device-width : 414px) and (max-device-width : 736px) {
+    .nectar-slider-wrap[data-full-width=false] .swiper-slide .content h2 {
+        font-size: 35px!important;
+        line-height: 35px!important;
+    }
+}
+
+/* iPhone 5 ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 568px) and (orientation: landscape) {
+    body .nectar-slider-wrap[data-fullscreen=true] .swiper-slide .content p {
+        font-size: 12px!important;
+        line-height: 14px!important;
+    }
+}
+
+/* iPhone 5 ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 568px) and (orientation: landscape) {
+    .nectar-slider-wrap .swiper-slide[data-y-pos=middle] .content {
+        padding: 0 0!important;
+    }
+}
+
+/* iPhone 5 ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 568px) and (orientation: portrait) {
+    body .nectar-slider-wrap[data-fullscreen=true] .swiper-slide .content p {
+        font-size: 15px!important;
+        line-height: 18px!important;
+    }
+}
+
+/* iPhone 5 ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 568px) {
+    .nectar-slider-wrap[data-full-width=false] .swiper-slide .content h2 {
+        font-size: 26px!important;
+        line-height: 30px!important;
+    }
+}
